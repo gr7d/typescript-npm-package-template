@@ -5,19 +5,19 @@
 	"keywords": [
 		"CHANGE_ME"
 	],
-	"main": "src/index.js",
+	"main": "dist/index.js",
 	"scripts": {
 		"build": "tsc",
-		"test": "npm run build && vitest run"
+		"test": "vitest run"
 	},
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "CHANGE_ME"
 	},
-	"author": "",
+	"author": "CHANGE_ME",
 	"license": "GPLv3",
 	"bugs": {
-		"url": "CHANGE_ME.ME"
+		"url": "CHANGE_ME"
 	},
 	"homepage": "CHANGE_ME",
 	"devDependencies": {
