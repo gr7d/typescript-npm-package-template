@@ -104,7 +104,16 @@ dist
 .tern-port
 
 # Github
-.github
+.github/
 
 # Code
-.vscode
+.vscode/
+
+# Misc. configuration files
+tsconfig.json
+.editorconfig
+.eslintrc
+.prettierrc
+
+# Source files
+src/
